@@ -1,0 +1,27 @@
+# Archivos compilados y paquetes de Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+out/
+
+# Logs y archivos temporales del sistema
+*.log
+*.tmp
+*.bak
+*~
+
+# Entornos de desarrollo (IDEs)
+.vscode/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+nbproject/private/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
